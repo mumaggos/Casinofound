@@ -3,7 +3,7 @@ import { polygon, polygonMumbai } from 'viem/chains';
 import { useSettings } from '../contexts/SettingsContext';
 
 // 1. Define constants
-const projectId = process.env.REACT_APP_WALLETCONNECT_PROJECT_ID || 'd1b6d161-8ef3-4dba-ada3-4a3dde392665=29b006abb3348db0e2d16788267434e8c62e78f17055c53e54c25c9abcc69b68';
+const projectId = process.env.REACT_APP_WALLETCONNECT_PROJECT_ID || '90d1b38d3f88cd5cd21dece9823faa08';
 
 // 2. Create wagmiConfig
 const metadata = {
