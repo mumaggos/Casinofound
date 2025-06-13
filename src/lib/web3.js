@@ -3,14 +3,14 @@ import { polygon, polygonMumbai } from 'viem/chains';
 import { useSettings } from '../contexts/SettingsContext';
 
 // 1. Define constants
-const projectId = process.env.REACT_APP_WALLETCONNECT_PROJECT_ID || 'YOUR_PROJECT_ID';
+const projectId = process.env.REACT_APP_WALLETCONNECT_PROJECT_ID || '90d1b38d3f88cd5cd21dece9823faa08';
 
 // 2. Create wagmiConfig
 const metadata = {
   name: 'CasinoFound',
   description: 'CasinoFound - Token CFD na rede Polygon',
-  url: 'https://casinofound.me',
-  icons: ['https://casinofound.me/favicon.ico']
+  url: 'https://casinofound.vercel.app',
+  icons: ['https://casinofound.vercel.app/favicon.ico']
 };
 
 const chains = [polygon, polygonMumbai];
