@@ -20,7 +20,7 @@ const defaultSettings = {
   contractAddress: '0x1234567890123456789012345678901234567890', // Endereço fictício
   profitDistributorAddress: '0x0987654321098765432109876543210987654321', // Endereço fictício
   adminWallet: '0x5555555555555555555555555555555555555555', // Endereço fictício
-  walletConnectProjectId: 'YOUR_PROJECT_ID',
+  walletConnectProjectId: '90d1b38d3f88cd5cd21dece9823faa08',
   
   // Configurações de idioma
   defaultLanguage: 'pt',
