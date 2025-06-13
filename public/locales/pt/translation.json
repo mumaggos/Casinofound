@@ -1,0 +1,156 @@
+{
+  "translation": {
+    "common": {
+      "loading": "Carregando...",
+      "error": "Erro",
+      "success": "Sucesso",
+      "connectWallet": "Conectar Carteira",
+      "disconnectWallet": "Desconectar Carteira",
+      "buyTokens": "Comprar Tokens",
+      "stack": "Stack",
+      "unstack": "Unstack",
+      "subscribe": "Inscrever-se",
+      "learnMore": "Saiba Mais",
+      "comingSoon": "Em Breve"
+    },
+    "header": {
+      "home": "Início",
+      "digitalVault": "Cofre Digital",
+      "whitepaper": "Whitepaper",
+      "roadmap": "Roadmap",
+      "tokenomics": "Tokenomics",
+      "team": "Equipa"
+    },
+    "home": {
+      "countdown": {
+        "title": "Lançamento do Casino em",
+        "days": "Dias",
+        "hours": "Horas",
+        "minutes": "Minutos",
+        "seconds": "Segundos"
+      },
+      "icoPhase": {
+        "title": "Fase Atual da ICO",
+        "phase1": "Fase 1: $0,02 por token",
+        "phase2": "Fase 2: $0,10 por token",
+        "buyNow": "Comprar Agora"
+      },
+      "about": {
+        "title": "Sobre o Token CFD",
+        "description": "CasinoFound é uma criptomoeda baseada na rede Polygon (Matic), criada para financiar o lançamento e a operação de um casino online inovador. Através do token CFD, os detentores participam dos lucros do casino, recebendo dividendos proporcionais à quantidade de tokens que possuem em Stack."
+      },
+      "newsletter": {
+        "title": "Fique Atualizado",
+        "subtitle": "Inscreva-se na nossa newsletter para receber as últimas novidades",
+        "placeholder": "Seu email",
+        "button": "Inscrever-se"
+      }
+    },
+    "digitalVault": {
+      "title": "Cofre Digital",
+      "walletInfo": {
+        "title": "Informações da Carteira",
+        "address": "Endereço",
+        "balance": "Saldo"
+      },
+      "buyTokens": {
+        "title": "Comprar Tokens",
+        "usdt": "Comprar com USDT",
+        "matic": "Comprar com MATIC",
+        "amount": "Quantidade",
+        "price": "Preço",
+        "total": "Total",
+        "buy": "Comprar"
+      },
+      "tokenInfo": {
+        "title": "Informações de Tokens",
+        "stackPercentage": "Percentagem em Stack",
+        "totalPercentage": "Percentagem do Total"
+      },
+      "stackArea": {
+        "title": "Área de Stack",
+        "description": "Faça stack dos seus tokens CFD para receber dividendos proporcionais aos lucros do casino. Os tokens em stack ficam bloqueados por um período mínimo de 30 dias.",
+        "stackButton": "Stack",
+        "unstackButton": "Unstack",
+        "amountToStack": "Quantidade para Stack",
+        "amountToUnstack": "Quantidade para Unstack"
+      }
+    },
+    "whitepaper": {
+      "title": "Whitepaper",
+      "introduction": "Introdução",
+      "tokenOverview": "Visão Geral do Token",
+      "tokenDistribution": "Distribuição dos Tokens",
+      "profitDistribution": "Distribuição dos Lucros",
+      "eligibility": "Elegibilidade para Distribuição de Lucros",
+      "technology": "Tecnologia",
+      "smartContracts": "Smart Contracts",
+      "onlineCasino": "Casino Online",
+      "licensing": "Licenciamento e Regulamentação",
+      "team": "Equipe",
+      "valueProposition": "Proposta de Valor",
+      "risks": "Riscos e Mitigações",
+      "conclusion": "Conclusão"
+    },
+    "roadmap": {
+      "title": "Roadmap",
+      "q32025": "Q3 2025",
+      "q42025": "Q4 2025",
+      "q12026": "Q1 2026",
+      "jan2026": "Janeiro 2026",
+      "q22026": "Q2 2026 e além"
+    },
+    "tokenomics": {
+      "title": "Tokenomics",
+      "tokenInfo": {
+        "title": "Informações do Token",
+        "name": "Nome",
+        "symbol": "Símbolo",
+        "totalSupply": "Total Supply",
+        "network": "Rede"
+      },
+      "distribution": {
+        "title": "Distribuição dos Tokens",
+        "airdrops": "Airdrops",
+        "donations": "Doações sociais/ambientais",
+        "icoPhase1": "ICO Fase 1",
+        "icoPhase2": "ICO Fase 2",
+        "team": "Equipe & Desenvolvimento",
+        "marketing": "Marketing",
+        "advisors": "Advisors",
+        "strategicReserve": "Reserva Estratégica",
+        "liquidity": "Liquidez (DEX/CEX)"
+      }
+    },
+    "team": {
+      "title": "Nossa Equipa",
+      "ceo": "CEO",
+      "cto": "CTO",
+      "cfo": "CFO",
+      "cmo": "CMO",
+      "developer": "Desenvolvedor",
+      "designer": "Designer",
+      "advisor": "Advisor"
+    },
+    "admin": {
+      "title": "Painel Administrativo",
+      "login": "Login Administrativo",
+      "dashboard": "Dashboard",
+      "content": "Conteúdo",
+      "settings": "Configurações",
+      "api": "Configurações de API",
+      "abi": "Configurações de ABI",
+      "wallet": "Configurações de Wallet",
+      "language": "Configurações de Idioma",
+      "save": "Salvar",
+      "cancel": "Cancelar"
+    },
+    "footer": {
+      "rights": "Todos os direitos reservados",
+      "privacy": "Política de Privacidade",
+      "terms": "Termos de Uso",
+      "contact": "Contato"
+    }
+  }
+}
+

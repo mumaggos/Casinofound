@@ -1,0 +1,156 @@
+{
+  "translation": {
+    "common": {
+      "loading": "Chargement...",
+      "error": "Erreur",
+      "success": "Succès",
+      "connectWallet": "Connecter le Portefeuille",
+      "disconnectWallet": "Déconnecter le Portefeuille",
+      "buyTokens": "Acheter des Tokens",
+      "stack": "Stack",
+      "unstack": "Unstack",
+      "subscribe": "S'abonner",
+      "learnMore": "En Savoir Plus",
+      "comingSoon": "Bientôt Disponible"
+    },
+    "header": {
+      "home": "Accueil",
+      "digitalVault": "Coffre-fort Numérique",
+      "whitepaper": "Livre Blanc",
+      "roadmap": "Feuille de Route",
+      "tokenomics": "Tokenomics",
+      "team": "Équipe"
+    },
+    "home": {
+      "countdown": {
+        "title": "Lancement du Casino dans",
+        "days": "Jours",
+        "hours": "Heures",
+        "minutes": "Minutes",
+        "seconds": "Secondes"
+      },
+      "icoPhase": {
+        "title": "Phase ICO Actuelle",
+        "phase1": "Phase 1: 0,02$ par token",
+        "phase2": "Phase 2: 0,10$ par token",
+        "buyNow": "Acheter Maintenant"
+      },
+      "about": {
+        "title": "À Propos du Token CFD",
+        "description": "CasinoFound est une cryptomonnaie basée sur le réseau Polygon (Matic), créée pour financer le lancement et l'exploitation d'un casino en ligne innovant. Grâce au token CFD, les détenteurs participent aux bénéfices du casino, recevant des dividendes proportionnels à la quantité de tokens qu'ils ont en Stack."
+      },
+      "newsletter": {
+        "title": "Restez Informé",
+        "subtitle": "Abonnez-vous à notre newsletter pour recevoir les dernières nouvelles",
+        "placeholder": "Votre email",
+        "button": "S'abonner"
+      }
+    },
+    "digitalVault": {
+      "title": "Coffre-fort Numérique",
+      "walletInfo": {
+        "title": "Informations du Portefeuille",
+        "address": "Adresse",
+        "balance": "Solde"
+      },
+      "buyTokens": {
+        "title": "Acheter des Tokens",
+        "usdt": "Acheter avec USDT",
+        "matic": "Acheter avec MATIC",
+        "amount": "Montant",
+        "price": "Prix",
+        "total": "Total",
+        "buy": "Acheter"
+      },
+      "tokenInfo": {
+        "title": "Informations sur les Tokens",
+        "stackPercentage": "Pourcentage en Stack",
+        "totalPercentage": "Pourcentage du Total"
+      },
+      "stackArea": {
+        "title": "Zone de Stack",
+        "description": "Stackez vos tokens CFD pour recevoir des dividendes proportionnels aux bénéfices du casino. Les tokens stackés sont bloqués pour une période minimale de 30 jours.",
+        "stackButton": "Stack",
+        "unstackButton": "Unstack",
+        "amountToStack": "Montant à Stacker",
+        "amountToUnstack": "Montant à Unstacker"
+      }
+    },
+    "whitepaper": {
+      "title": "Livre Blanc",
+      "introduction": "Introduction",
+      "tokenOverview": "Aperçu du Token",
+      "tokenDistribution": "Distribution des Tokens",
+      "profitDistribution": "Distribution des Bénéfices",
+      "eligibility": "Éligibilité pour la Distribution des Bénéfices",
+      "technology": "Technologie",
+      "smartContracts": "Contrats Intelligents",
+      "onlineCasino": "Casino en Ligne",
+      "licensing": "Licence et Réglementation",
+      "team": "Équipe",
+      "valueProposition": "Proposition de Valeur",
+      "risks": "Risques et Mitigations",
+      "conclusion": "Conclusion"
+    },
+    "roadmap": {
+      "title": "Feuille de Route",
+      "q32025": "T3 2025",
+      "q42025": "T4 2025",
+      "q12026": "T1 2026",
+      "jan2026": "Janvier 2026",
+      "q22026": "T2 2026 et au-delà"
+    },
+    "tokenomics": {
+      "title": "Tokenomics",
+      "tokenInfo": {
+        "title": "Informations sur le Token",
+        "name": "Nom",
+        "symbol": "Symbole",
+        "totalSupply": "Offre Totale",
+        "network": "Réseau"
+      },
+      "distribution": {
+        "title": "Distribution des Tokens",
+        "airdrops": "Airdrops",
+        "donations": "Dons Sociaux/Environnementaux",
+        "icoPhase1": "ICO Phase 1",
+        "icoPhase2": "ICO Phase 2",
+        "team": "Équipe & Développement",
+        "marketing": "Marketing",
+        "advisors": "Conseillers",
+        "strategicReserve": "Réserve Stratégique",
+        "liquidity": "Liquidité (DEX/CEX)"
+      }
+    },
+    "team": {
+      "title": "Notre Équipe",
+      "ceo": "PDG",
+      "cto": "Directeur Technique",
+      "cfo": "Directeur Financier",
+      "cmo": "Directeur Marketing",
+      "developer": "Développeur",
+      "designer": "Designer",
+      "advisor": "Conseiller"
+    },
+    "admin": {
+      "title": "Panneau d'Administration",
+      "login": "Connexion Admin",
+      "dashboard": "Tableau de Bord",
+      "content": "Contenu",
+      "settings": "Paramètres",
+      "api": "Paramètres API",
+      "abi": "Paramètres ABI",
+      "wallet": "Paramètres de Portefeuille",
+      "language": "Paramètres de Langue",
+      "save": "Enregistrer",
+      "cancel": "Annuler"
+    },
+    "footer": {
+      "rights": "Tous droits réservés",
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation",
+      "contact": "Contact"
+    }
+  }
+}
+
