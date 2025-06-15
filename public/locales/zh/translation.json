@@ -1,0 +1,156 @@
+{
+  "translation": {
+    "common": {
+      "loading": "加载中...",
+      "error": "错误",
+      "success": "成功",
+      "connectWallet": "连接钱包",
+      "disconnectWallet": "断开钱包",
+      "buyTokens": "购买代币",
+      "stack": "质押",
+      "unstack": "解除质押",
+      "subscribe": "订阅",
+      "learnMore": "了解更多",
+      "comingSoon": "即将推出"
+    },
+    "header": {
+      "home": "首页",
+      "digitalVault": "数字金库",
+      "whitepaper": "白皮书",
+      "roadmap": "路线图",
+      "tokenomics": "代币经济学",
+      "team": "团队"
+    },
+    "home": {
+      "countdown": {
+        "title": "赌场启动倒计时",
+        "days": "天",
+        "hours": "小时",
+        "minutes": "分钟",
+        "seconds": "秒"
+      },
+      "icoPhase": {
+        "title": "当前ICO阶段",
+        "phase1": "第1阶段: 每代币0.02美元",
+        "phase2": "第2阶段: 每代币0.10美元",
+        "buyNow": "立即购买"
+      },
+      "about": {
+        "title": "关于CFD代币",
+        "description": "CasinoFound是基于Polygon(Matic)网络的加密货币，旨在为创新在线赌场的启动和运营提供资金。通过CFD代币，持有者可以参与赌场利润分配，获得与其质押代币数量成比例的分红。"
+      },
+      "newsletter": {
+        "title": "保持更新",
+        "subtitle": "订阅我们的通讯以接收最新消息",
+        "placeholder": "您的电子邮件",
+        "button": "订阅"
+      }
+    },
+    "digitalVault": {
+      "title": "数字金库",
+      "walletInfo": {
+        "title": "钱包信息",
+        "address": "地址",
+        "balance": "余额"
+      },
+      "buyTokens": {
+        "title": "购买代币",
+        "usdt": "使用USDT购买",
+        "matic": "使用MATIC购买",
+        "amount": "数量",
+        "price": "价格",
+        "total": "总计",
+        "buy": "购买"
+      },
+      "tokenInfo": {
+        "title": "代币信息",
+        "stackPercentage": "质押百分比",
+        "totalPercentage": "总百分比"
+      },
+      "stackArea": {
+        "title": "质押区域",
+        "description": "质押您的CFD代币以获得与赌场利润成比例的分红。质押的代币将被锁定至少30天。",
+        "stackButton": "质押",
+        "unstackButton": "解除质押",
+        "amountToStack": "质押数量",
+        "amountToUnstack": "解除质押数量"
+      }
+    },
+    "whitepaper": {
+      "title": "白皮书",
+      "introduction": "介绍",
+      "tokenOverview": "代币概述",
+      "tokenDistribution": "代币分配",
+      "profitDistribution": "利润分配",
+      "eligibility": "利润分配资格",
+      "technology": "技术",
+      "smartContracts": "智能合约",
+      "onlineCasino": "在线赌场",
+      "licensing": "许可和监管",
+      "team": "团队",
+      "valueProposition": "价值主张",
+      "risks": "风险和缓解措施",
+      "conclusion": "结论"
+    },
+    "roadmap": {
+      "title": "路线图",
+      "q32025": "2025年第三季度",
+      "q42025": "2025年第四季度",
+      "q12026": "2026年第一季度",
+      "jan2026": "2026年1月",
+      "q22026": "2026年第二季度及以后"
+    },
+    "tokenomics": {
+      "title": "代币经济学",
+      "tokenInfo": {
+        "title": "代币信息",
+        "name": "名称",
+        "symbol": "符号",
+        "totalSupply": "总供应量",
+        "network": "网络"
+      },
+      "distribution": {
+        "title": "代币分配",
+        "airdrops": "空投",
+        "donations": "社会/环境捐赠",
+        "icoPhase1": "ICO第1阶段",
+        "icoPhase2": "ICO第2阶段",
+        "team": "团队和开发",
+        "marketing": "营销",
+        "advisors": "顾问",
+        "strategicReserve": "战略储备",
+        "liquidity": "流动性(DEX/CEX)"
+      }
+    },
+    "team": {
+      "title": "我们的团队",
+      "ceo": "首席执行官",
+      "cto": "首席技术官",
+      "cfo": "首席财务官",
+      "cmo": "首席营销官",
+      "developer": "开发者",
+      "designer": "设计师",
+      "advisor": "顾问"
+    },
+    "admin": {
+      "title": "管理面板",
+      "login": "管理员登录",
+      "dashboard": "仪表板",
+      "content": "内容",
+      "settings": "设置",
+      "api": "API设置",
+      "abi": "ABI设置",
+      "wallet": "钱包设置",
+      "language": "语言设置",
+      "save": "保存",
+      "cancel": "取消"
+    },
+    "footer": {
+      "rights": "版权所有",
+      "privacy": "隐私政策",
+      "terms": "使用条款",
+      "contact": "联系我们"
+    }
+  }
+}
+
